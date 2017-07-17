@@ -1,0 +1,185 @@
+networks = [
+	'facebook'
+	'instagram'
+]
+
+ids =
+	facebook:
+		desigual: '24477009638'
+		desigual2: '1588524668099814'
+		desigual4: '1497945420520561'
+		desigual6: '1627700970844024'
+	instagram:
+		desigual: '2290918'
+
+fb_profile_names =
+	'24477009638': 'desigual'
+	'1588524668099814': 'desigual2'
+	'1497945420520561': 'desigual4'
+	'1627700970844024': 'desigual6'
+
+timeranges = [
+	"last day"
+	"last 7 days"
+	"last 28 days"
+]
+
+countries =
+	'IT':
+		name: 'Italy'
+		code: 'ITA'
+	'FR':
+		name: 'France'
+		code: 'FRA'
+	'LA':
+		name: ''
+		code: ''
+	'ES':
+		name: 'Spain'
+		code: 'ESP'
+	'US':
+		name: 'United States'
+		code: ''
+	'DE':
+		name: 'Germany'
+		code: ''
+	'PT':
+		name: 'Portugal'
+		code: ''
+	'BR':
+		name: 'Brazil'
+		code: ''
+	'GB':
+		name: 'United Kingdom'
+		code: 'GBR'
+	'NL':
+		name: 'Netherlands'
+		code: ''
+	'RS':
+		name: 'Serbia'
+		code: ''
+	'RO':
+		name: 'Romania'
+		code: ''
+	'PL':
+		name: 'Poland'
+		code: ''
+	'HU':
+		name: 'Hungary'
+		code: ''
+	'SI':
+		name: 'Slovenia'
+		code: ''
+	'CZ':
+		name: 'Czech Republic'
+		code: ''
+	'JP':
+		name: 'Japan'
+		code: ''
+	'BG':
+		name: 'Bulgaria'
+		code: ''
+	'HR':
+		name: 'Croatia'
+		code: ''
+	'RU':
+		name: 'Russia'
+		code: ''
+	'ES':
+		name: ''
+		code: ''
+	'IL':
+		name: ''
+		code: ''
+	'AR':
+		name: ''
+		code: ''
+	'GR':
+		name: ''
+		code: ''
+	'EE':
+		name: 'Estonia'
+		code: ''
+	'SE':
+		name: 'Sweden'
+		code: ''
+	'BE':
+		name: 'Belgium'
+		code: ''
+	'TR':
+		name: ''
+		code: ''
+	'SK':
+		name: 'Slovakia'
+		code: ''
+	'DK':
+		name: 'Denmark'
+		code: ''
+	'AL':
+		name: ''
+		code: ''
+	'CA':
+		name: 'Canada'
+		code: ''
+	'ID':
+		name: ''
+		code: ''
+	'FI':
+		name: 'Finland'
+		code: ''
+	'TW':
+		name: ''
+		code: ''
+	'HK':
+		name: 'Hong Kong'
+		code: ''
+	'NO':
+		name: ''
+		code: ''
+	'GE':
+		name: ''
+		code: ''
+	'AM':
+		name: ''
+		code: ''
+	'LT':
+		name: ''
+		code: ''
+	'BA':
+		name: ''
+		code: ''
+	'MK':
+		name: ''
+		code: ''
+	'TH':
+		name: ''
+		code: ''
+	'CN':
+		name: ''
+		code: ''
+	'ES':
+		name: ''
+		code: ''
+
+###
+Argentina
+Armenia
+Austria
+Chile
+Colombia
+Costa Rica
+Egypt
+Greece
+India
+Iran
+Israel
+Luxembourg
+Malta
+Mexico
+Peru
+Singapore
+Switzerland
+United Arab Emirates
+###
+
+{networks, timeranges, countries, ids, fb_profile_names}
